@@ -1,0 +1,137 @@
+{{Infobox City
+|title = Nicodranas
+|image = [[File:Nicodranas_by_adragonswinging.jpg|thumb]]
+|caption = {{art official caption|subject=[[Nicodranas]]|artist=adragonswinging|source=https://twitter.com/adragonswinging/status/1246492204975169543}}
+<!-- General Information -->
+|full name = Nicodranas
+|AKA = 
+|constructed = 
+|destroyed = 
+|rebuilt = 
+|leader = [[Marquis]]
+|currentleader = [[Zhafe Uludan]]{{guide ref|EGtW|67}}
+|guardunit = [[Zhelezo]]
+<!-- Location Information -->
+|plane = [[Material Plane]] ([[Exandria]])
+|continent = [[Wildemount]]
+|region = [[Menagerie Coast]]
+|districts = 
+*Restless Wharf
+*Open Quay
+*Opal Archways
+*The Skew
+|poi = 
+*[[Mother's Lighthouse]]
+*[[Wayfarer's Cove]]
+*[[Tidepeak]]
+*[[Lavish Chateau]]
+*Marquis Demesne
+<!-- Societal Information -->
+|population = 31,900 (in [[Time Line#EGTW|835 PD]]){{guide ref|EGtW|67}}
+|races=
+*68% [[Human]]
+*13% [[Halfling]]
+*8% [[Dwarf]]
+*10% Others
+|affiliation = [[Clovis Concord]]
+}}
+'''Nicodranas''' is the first and one of the major port cities on the [[Menagerie Coast]].{{ep ref|ep=2x33|0:14:37}} The city is under the control of the [[Clovis Concord]], with the exception of the Open Quay district owned by [[Yussa Errenis]].{{ep ref|ep=2x33|3:18:20}}{{ep ref|ep=2x48|0:50:51}}
+
+== '''Description'''==
+Nicodranas is the easternmost port city in the Menagerie Coast. Along with [[Port Damali]] it bookends the Menagerie Coast, although Nicodranas is approximately half the size of Port Damali.{{ep ref|ep=2x33|0:56:24|0:56:48}} The city has colorful rooftops and towers vary in height and design, giving an eclectic visual of a jumble of cultures having built this space without unified vision.{{ep ref|ep=2x32|3:30:35}}
+
+The city exterior wall has many gates and archways with portcullises that are held up by a chain mechanism beyond the wall. The gates are guarded by [[Zhelezo]] that run the city.{{ep ref|ep=2x33|0:47:53}} Towards the coastline, the walls slowly diminish in steps and extend out into the ocean. The walls beyond the exterior were once grey, but through the years of accumulating seagull excrement they became light grey with white patterns.{{ep ref|ep=2x33|0:22:19}} 
+<!-- Relocate these to their proper districts if known. -->
+* '''The Skew:''' An area of Nicodranas where according to [[Marion Lavorre]], most of the riffraff and the common folk live.{{ep ref|ep=2x33|2:10:55}}  It is the cheaper, more affordable residential area of town.{{ep ref|ep=2x33|3:29:18}}
+
+==='''Docks'''===
+[[File:BlackSalander_Mother's_Lighthouse.jpg|thumb|300px|{{art caption|subject=[[Mother's Lighthouse]]|artist=BlackSalander|source=https://twitter.com/BlackSalander/status/1037906153852887040}}]]
+The docks on the eastern and western sides of the city are the Restless Wharf and the Open Quay.{{guide ref|egtw|68}} Far below the waves are broken and long silt-covered remnants of ships that have sunk in this harbor.{{ep ref|ep=2x33|3:01:11}} There are dozens of ships in the middle of the harbor, and many more are anchored within the docks.{{ep ref|ep=2x33|0:24:53}}
+* '''The [[Mother's Lighthouse]]:''' located in the center of the harbor is the temple to [[the Wildmother]].
+* '''The [[Sluice Weave]]:''' are two submerged gates in the harbor.{{ep ref|ep=2x33|3:07:47}}
+
+===='''Restless Wharf'''====
+[[File:Port_of_Nicodranas_by_Austin_Burris.jpg|thumb|300px|{{art caption|subject=Port of Nicodranas|artist=Austin Burris|source=https://twitter.com/ABright002/status/1044949927372025856}}]]
+On the eastern side of the city's docks is the Restless Wharf, a busy dockyard that runs a very tight ship and seems to be filled with elements of cheap entertainment. Alongside the docks are warehouses, small huts, buildings and cranes. The cranes are made of wood, cord and rope, differing in size from 10 to 30 feet. They are often used, loading and off-loading various materials from the trade ships that are making their way into the harbor or loading up to leave. There are two or three larger guild buildings that are hubs of information for those that are coming from the docks. Walking around the docks are dockmasters gathering information of who is entering or exiting with their ships, making sure that everything is being handled.{{ep ref|ep=2x33|0:52:01|0:54:51}}
+
+* '''The [[Wayfarer's Cove]]:''' is one of the three main shipping yards of Nicodranas.{{ep ref|ep=2x30|0:52:59}}
+* '''The Wharf Load:''' is one of the larger center parts of the dock that juts out into the harbor a good hundred feet. There is a central dock house where a lot of the business is conducted. Inside are a handful of Zhelezo and folks that are filing out big leather books, ledgers, and receipt books of various people traveling through. There is a table with a bunch of papers rolled out, charting maps and large assembled lists of previous excursions. This is the place where the Wharfmaster works.{{ep ref|ep=2x33|2:41:06}}
+* '''Meandering Treasures:''' a place someone could sell items. They tend to pay, maybe not top change, but quickly. Deezma is the proprietor of this shop.{{ep ref|ep=2x33|2:47:02}}
+
+===='''Open Quay'''====
+The '''Open Quay''' is located on the western side of the docks. The Open Quay is the only part of Nicodranas not under the control of the [[Clovis Concord]].{{ep ref|ep=2x48|0:50:51}} It is a little bit smaller and seems to be less organized. 
+
+* '''[[Tidepeak]]:''' A strange tower which sits in the center of the Open Quay and is owned by [[Yussa Errenis]]{{ep ref|ep=2x33|3:18:20}}, a mage who is (possibly) at odds with the [[Clovis Concord]].
+* '''[[Seafloor's Bounty]]:''' General store run by a gnome named [[Sheila Bobsnopper]]{{ep ref|ep=2x48|0:58:55|1:06:44|more=The [[Mighty Nein]] resupplied with healing potions and flammable oil.}}
+* '''The Withered Bird Inn:''' Popular inn amongst the sailors that come through Nicodranas.
+[[File:Nicodranas_by_Kent_Davis.jpg|thumb|350px|left|{{art caption|subject=Nicodranas|artist=Kent Davis|source=https://twitter.com/iDrawBagman/status/1278439911398522886}}]]
+
+==='''Opal Archways District'''===
+The '''Opal Archways''' district of Nicodranas is the oldest district of the town. It is where the wealthier merchants and clientele seem to congregate. Nicodranas originally comprised only this district before it expanded outwards over time.{{ep ref|ep=2x33|0:58:42}} There are eleven 15-foot tall stone archways marking this district. It has a gradual arch with a large gem embedded at its zenith. Along the street are poles that hold oil lanterns that give a faint flickering firelight through the dark cobblestoned streets. Further in the district they give way to much more vibrant, magical baubles that hover about ten feet above in the air. The folks in this district appear to be well-dressed nobles, wearing a crushed silk-type clothing that is bright blues and purples, and jewelry of all sorts of gems and colors.{{ep ref|ep=2x33|0:59:43|1:00:40}} There are various street buskers and performers on the roads.{{ep ref|ep=2x33|1:04:56}}
+
+* '''[[Lavish Chateau]]:''' An esteemed hotel where the [[Ruby of the Sea]] performs. [[Jester Lavorre]] grew up in this hotel.{{ep ref|ep=2x33|1:09:08}}
+* '''Marquis Demesne:''' is where the [[Zhafe Uludan|Marquis]] of the city lives, along with a handful of diplomats. It is a gaudy palace of an estate, with towers up to five stories tall, two at the front and one larger one in the back. It is a large building that is draped with white silk. It has a dull brass and orange-yellow stone with a sandstone base with about 40 rooms within the establishment. A lot of money has gone into its construction. It's not in the best of upkeep. There are about 20 or more Zhelezo keeping an eye on the vicinity.{{ep ref|ep=2x33|1:05:52}} The [[Marquis]] is the head of the local chapter of the [[Clovis Concord]] that looks over Nicodranas.{{ep ref|ep=2x33|2:36:26}}
+*'''[[The Brenatto's Better Self]]:''' An apothecary in the southern sector of the Opal Archways district, owned and operated by [[Yeza Brenatto]].<ref>See "[[The Mighty Nein Reunited Part 1]]" <small>(Sx73)</small> at [https://youtu.be/XhkjjN7M0hk?t=960 0:16:00].</ref>
+
+=='''Society'''==
+==='''Demographics'''===
+With a population of 31,900 by the year 835 PD, Nicodranas is the second-largest city on the Menagerie Coast. The racial breakdown of the city is 68% humans, 13% halflings, 8% dwarves, and 10% other races.{{guide ref|explorer's guide|67}}
+===='''Notable People'''====
+{| class="wikitable sortable" style="width: 100%; font-size: 90%; line-height:135%;"
+! scope="col" style="width: 20%;" | Name
+! scope="col" style="width: 10%;" | Type
+! class="unsortable"|Description
+|-
+| '''[[Algar Dyomin]]''' || NPC || A powerful man in Nicodranas and a client of the Ruby of the Sea.{{ep ref|ep=2x33|2:05:14}}
+|-
+| '''[[Bluud]]''' || NPC ||Bodyguard of Marion Lavorre.{{ep ref|ep=2x35|1:09:20}}
+|-
+| '''Brenatto family''' || NPCs and one PC ||[[Veth Brenatto|Veth]], [[Yeza Brenatto|Yeza]] and [[Luc Brenatto]], a [[halfling]] family, and as of 837 PD, the owners of Brenatto's Better Self and the [[Wildemount Wildlings|Wildemount Wildings]] camp.{{ep ref|ep=Sx73|0:09:36|0:16:21}}
+|-
+| '''[[Gladys|Lightkeeper Gladys]]''' || NPC || The elderly keeper of the [[Mother's Lighthouse]].{{ep ref|ep=2x33|2:08:51}}
+|-
+|'''[[Deezma Simmin]]'''||NPC||Owner of Meandering Treasures.{{ep ref|ep=2x33|2:47:02}}
+|-
+|'''[[Ignus]]'''||NPC|| Dwarven Wharfmaster of the Open Quay.{{ep ref|ep=2x33|57:20}}
+|-
+|'''[[Sheila Bobsnopper]]'''||NPC|| Owner of the Seafloor's Bounty.{{ep ref|ep=2x48|0:58:55}}
+|-
+| '''[[Jester Lavorre]]''' || PC || Daughter of Marion Lavorre.{{ep ref|ep=2x33|1:21:08}}
+|-
+| '''[[Ruby of the Sea|Marion Lavorre]]''' || NPC || A famed courtesan and mother of [[Jester Lavorre]].{{ep ref|ep=2x33|1:21:08}}
+|-
+| '''[[Wensforth]]''' || NPC || Yussa's goblin assistant.{{ep ref|ep=2x48|1:13:56}}
+|-
+| '''[[Yussa Errenis]]''' || NPC || A mage who owns the Open Quay and [[Tidepeak|Tidepeak Tower]].{{ep ref|ep=2x48|2:04:02}}{{ep ref|ep=2x84|1:05:20}}
+|-
+| '''[[Zhafe Uludan|Marquis Zhafe Uludan]]''' || NPC || The ruling Marquis of Nicodranas.{{ep ref|ep=2x97|0:48:22}}{{guide ref|explorer's guide|67}}
+|-
+| '''[[Robert Sharpe|Lord Robert Sharpe]]''' || NPC || A powerful lord with connections to the Clovis Concord.{{ep ref|ep=2x97|2:53:02}}
+|}
+
+=='''Etymology'''==
+''Nicodranas'' means "gathering of colors" in Draconic.{{guide ref|EGtW|67}}
+
+=='''Trivia'''==
+* The [[Wikipedia:Bear claw (pastry)|bear claws]] found in Nicodranas differ from those found in [[Zadash]] in that Nicodranas bear claws are loaded up with cinnamon.{{ep ref|ep=2x11|01:03:17|more=Nicodranas Bear Claws.}}
+
+== '''References''' ==
+{{Reflist|2}}
+'''Art:'''
+{{Reflist|group="art"}}
+
+{{Nav-Nicodranas}}
+{{Nav-MenagerieCoast}}
+{{Nav-Places|state=mw-collapsed|Wildemount}}
+
+{{M9Arc2-storynav|state=mw-collapsed}}
+{{M9Arc3-storynav|state=mw-collapsed}}
+{{M9Arc4-storynav|state=mw-collapsed}}
+{{M9Arc5-storynav|state=mw-collapsed}}
+{{M9Arc6-storynav|state=mw-collapsed}}
+
+[[Category:Cities on the Menagerie Coast]]
+[[Category:City-states]]
+[[Category:Port Cities]]
+[[Category:Clovis Concord]]
+[[Category:Nicodranas]]

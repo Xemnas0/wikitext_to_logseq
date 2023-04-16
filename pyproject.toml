@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "script-experiments"
+version = "0.1.0"
+description = ""
+authors = ["Francesco Nuzzo <franuzzo966@gmail.com>"]
+readme = "README.md"
+packages = [{ include = "src" }]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fandom-py = "^0.2.1"
+
+
+[tool.poetry.group.test.dependencies]
+pytest = "^7.3.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.ruff]
+line-length = 120
