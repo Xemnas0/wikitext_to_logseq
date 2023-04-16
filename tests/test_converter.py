@@ -1,11 +1,18 @@
 import pytest
-from src.converter import _convert_header, _extract_infobox, _parse_infobox
+from src.converter import (
+    _convert_header,
+    _extract_infobox,
+    _parse_infobox,
+    covert_wikitext_to_markdown,
+)
 
 
 @pytest.mark.parametrize(
     "wikitext, expected_markdown",
     [
         ("=Level 1=", "# Level 1"),
+        ("=**Level 1**=", "# Level 1"),
+        ("==**Level 2**==", "## Level 2"),
         ("==Level 2==", "## Level 2"),
         ("===Level 3===", "### Level 3"),
         ("====Level 4====", "#### Level 4"),
@@ -76,3 +83,12 @@ region:: [[Menagerie Coast]]
 districts:: Restless Wharf, Open Quay, Opal Archways, The Skew
 poi:: [[Mother's Lighthouse]], [[Wayfarer's Cove]], [[Tidepeak]], [[Lavish Chateau]], Marquis Demesne"""
     assert parsed_infobox == expected_infobox
+
+
+def test_convert_wikitext_page():
+    with open("data/nicodranas.txt", "r") as f:
+        wikitext = f.read()
+
+    markdown = covert_wikitext_to_markdown(wikitext)
+
+    assert markdown == ""
